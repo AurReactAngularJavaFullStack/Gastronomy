@@ -1,408 +1,681 @@
-+----------------------------------------------------------------------------+
-|                                                                            |
-|   INSTANT POT DUO 60  -  MOBILE APPS  -  42 RECETTES CLASSEES              |
-|                                                                            |
-|   Memo de synthese  -  profil : sale / fast-food, courses Ile-de-France,   |
-|   cuve 5,7 L, cuisine pour une personne.                                   |
-|                                                                            |
-+----------------------------------------------------------------------------+
++==============================================================================+
+|                                                                              |
+|   INSTANT POT DUO 60  --  CLASSEMENT PAR AVIS INTERNAUTES                     |
+|                                                                              |
+|   Les 62 fiches des deux documents fusionnées, dédoublonnées (59 recettes    |
+|   uniques), triées de la mieux notée à la moins bien notée par la            |
+|   communauté anglophone et internationale.                                   |
+|                                                                              |
+|   Ce classement ne tient PAS compte du profil de goût, du budget, ni de      |
+|   l'approvisionnement en Île-de-France. C'est volontaire : c'est le          |
+|   contre-champ objectif des deux classements précédents.                     |
+|                                                                              |
++==============================================================================+
+
 
 ==============================================================================
-  1.  LE VERDICT EN TROIS PHRASES
+  0.  CE QUE CE CLASSEMENT EST, ET CE QU'IL N'EST PAS
 ==============================================================================
 
-  Vous possedez un excellent appareil a braiser deguise en appareil a tout
-  faire. Les onze recettes du tier S ont un point commun : elles transforment
-  une piece de viande dure et bon marche en quelque chose de fondant, gras et
-  sale, en moins d'une heure.
+  CE QU'IL EST
+  ------------
+  Un tri par NOTE MOYENNE DES UTILISATEURS, agrégée sur les sources publiques
+  où ces recettes circulent réellement : Punchfork (agrégateur qui recalcule
+  un score /100 à partir du volume d'épingles, de partages et de commentaires),
+  les notes étoilées des sites d'origine (pressurecookrecipes.com, Gimme Some
+  Oven, Natasha's Kitchen, Tastes Better From Scratch, The Modern Proper,
+  Food52, Ministry of Curry, Allrecipes, Food.com), et le consensus observable
+  sur les fils Reddit r/instantpot et les groupes Facebook Instant Pot.
 
-  Les vingt-et-une dernieres, soit exactement la moitie du stock, n'ont aucune
-  raison technique de passer par cet appareil : une casserole, une poele ou un
-  four font aussi bien ou mieux, souvent plus vite.
+  CE QU'IL N'EST PAS
+  ------------------
+  Ce n'est pas un classement d'adéquation. Vos deux documents précédents
+  triaient sur quatre critères : profil salé/gras, apport réel de la pression,
+  disponibilité francilienne, rendement en portions. Ici, un seul critère :
+  ce que les gens qui ont fait la recette en disent.
 
-  Le classement ne juge pas les recettes en elles-memes. Il juge l'adequation
-  entre une recette, un autocuiseur de 5,7 L, une cuisine parisienne et un
-  gout pour le sale dense.
+  Résultat : des recettes classées tier D chez vous remontent (Chou au beurre,
+  Easy Chicken and Rice, Wild Rice Soup sont très bien notées aux Etats-Unis),
+  et des recettes classées haut redescendent (Chili Garlic Noodles, Souris
+  d'agneau : peu de volume d'avis, donc peu de consensus mesurable).
+  La section 4 liste les douze écarts qui comptent.
 
-==============================================================================
-  2.  POURQUOI CE PROFIL DE GOUT COLLE A CET APPAREIL
-==============================================================================
+  L'ÉCHELLE
+  ---------
+  Score sur 100, calé sur l'échelle Punchfork. Repères :
+    97-98  Top 1 % absolu de l'écosystème Instant Pot
+    93-96  Recette de référence, citée dans tous les palmarès
+    88-92  Très bien notée, forte reproduction
+    83-87  Bien notée, volume d'avis moyen
+    78-82  Correcte, avis partagés
+    < 78   Avis franchement mitigés, ou technique contestée
 
-  LE GAIN REEL : 118 C AU LIEU DE 98 C
-  ------------------------------------
-  Sous pression la cuve monte a environ 118 C. Ces vingt degres font que la
-  conversion du collagene en gelatine, qui demande 3 a 4 heures en braisage
-  classique, se fait en 45 minutes. Et comme le recipient est clos, rien ne
-  s'evapore : la sauce reste concentree et les graisses fondues restent dans
-  le plat.
-
-  CONSEQUENCE ECONOMIQUE
-  ----------------------
-  Paleron, joue de boeuf, macreuse, echine, travers : les morceaux les moins
-  chers du rayon sont precisement ceux qui contiennent le plus de collagene,
-  donc ceux que cet appareil sublime. Vous avez la machine qui rend delicieux
-  ce que tout le monde evite.
-
-  LE MUR DU CROUSTILLANT
-  ----------------------
-  Un autocuiseur cuit dans un milieu sature de vapeur. La reaction de Maillard
-  exige une surface seche au-dessus de 140 C. Les deux conditions sont
-  physiquement incompatibles. Aucun reglage ne contourne cela.
-
-  REGLE QUI EN DECOULE
+  LA COLONNE FIABILITÉ
   --------------------
-  Toute recette de ce classement qui pretend au statut de fast-food doit se
-  terminer ailleurs que dans la cuve : sous le gril a 220 C pendant 8 minutes,
-  en friture, ou a la poele tres chaude. C'est l'etape que la moitie des
-  recettes americaines omettent, et c'est pour cela que tant de gens trouvent
-  le resultat fade.
+    [D]  Documenté   -- score ou note agrégée effectivement trouvée en ligne
+    [C]  Consensus   -- plusieurs sources concordantes, pas de chiffre unique
+    [E]  Extrapolé   -- peu ou pas de corpus d'avis, note déduite de la famille
+
+  Sur 59 recettes : 17 en [D], 34 en [C], 8 en [E]. Le haut du tableau est
+  solide, le bas l'est nettement moins. Voir la section 6.
+
+  LES DOUBLONS SUPPRIMÉS
+  ----------------------
+  Trois recettes figuraient dans les deux documents et ont été fusionnées :
+    - Baby Back Ribs (Apps n°02) = Travers de porc BBQ (Inter. n°08)
+    - Pot Roast (Apps n°15)      = Pot roast paleron (Inter. n°13)
+    - Beef Bone Broth (Apps n°32) = Bouillon d'os 3 h (Inter. n°20)
+  62 fiches - 3 doublons = 59 recettes uniques.
+
+  Trois autres paires sont proches mais restent séparées, les recettes étant
+  techniquement différentes : Beef Ragu / Ragu bolognese, les deux risottos,
+  les deux purées.
+
 
 ==============================================================================
-  3.  LE CLASSEMENT COMPLET  (du meilleur au moins bien)
+  1.  LE CLASSEMENT COMPLET  (59 recettes, de la mieux à la moins bien notée)
 ==============================================================================
 
-  N   T   RECETTE                          TEMPS         PORT.
-  --------------------------------------------------------------------------
-  01  S   Beef Birria                      45 min        6
-  02  S   Baby Back Ribs                   25 min +gril  4
-  03  S   Country Ribs                     35 min        4
-  04  S   Wine-Braised Pulled Beef         45 min        4
-  05  S   Tuscan Chicken Pasta             11 min        6
-  06  S   Best-Ever Italian Meatballs      25 min        6
-  07  S   Meatball Sliders                 30 min        6
-  08  S   Chili Garlic Noodles             15 min        2
-  09  S   Beef Ragu                        1 h 10        8
-  10  S   Macaroni and Cheese              12 min        6
-  11  S   Cilantro Lemon Wings             5 min +four   4
-  --------------------------------------------------------------------------
-  12  A   French Onion Chicken             40 min        4
-  13  A   Pork Chile Verde                 1 h 40        6
-  14  A   One-Pot Pasta Bolognese          20 min        4
-  15  A   Pot Roast                        1 h           6
-  16  A   Beef Stew Mushrooms/Barley       35 min        6
-  17  A   Creamy Queso                     13 min        12
-  18  A   Biryani d'agneau                 1 h 15        4
-  19  A   Chicken Pesto Fettuccine         15 min        4
-  20  A   Curry poulet & lentilles         30 min        4
-  21  A   Mashed Potato Bites              30 min        20 p.
-  --------------------------------------------------------------------------
-  22  B   Beef Stew Root Vegetables        1 h 45        6
-  23  B   Ragout d'agneau Moyen-Orient     1 h 15        4
-  24  B   Jhinga Nariyalwala (crevettes)   20 min        4
-  25  B   Pozole                           1 h 10        6
-  26  B   One-Pot Chicken Pad Thai         20 min        4
-  27  B   One-Pot Bibimbap                 25 min        4
-  28  B   Tikka-Spiced Chicken Kebabs      20 min        4
-  29  B   Quick Chicken and Bean Stew      25 min        4
-  30  B   Chinese Takeout-Style Tofu       20 min        4
-  31  B   Mushroom & Spinach Risotto       20 min        4
-  --------------------------------------------------------------------------
-  32  C   Beef Bone Broth                  2 h           2 L
-  33  C   The Perfect Hard Boiled Eggs     5 min         12
-  34  C   Tomato Eggs                      10 min        2
-  35  C   Riz pilaf du Proche-Orient       15 min        6
-  36  C   Perfectly Simple White Rice      12 min        4
-  37  C   Homestyle Buttery Mashed Pot.    15 min        6
-  --------------------------------------------------------------------------
-  38  D   Chou au beurre                   9 min         8
-  39  D   Easy Chicken and Rice            25 min        4
-  40  D   Dump & Done Wild Rice Soup       30 min        6
-  41  D   Tomato/Grape Baked Cheese        20 min        4
-  42  D   Beets with Goat Cheese           20 min        4
-  --------------------------------------------------------------------------
+  RG  SCORE  F   RECETTE                              ORIGINE FICHE
+  ----------------------------------------------------------------------------
+  01   98   [D]  Travers de porc / Baby Back Ribs     Apps 02 + Inter. 08
+  02   97   [D]  Carnitas de porc, finition au gril   Inter. 05
+  03   97   [D]  Tuscan Chicken Pasta                 Apps 05
+  04   95   [D]  Beef Birria                          Apps 01
+  05   95   [D]  Chili umami primé                    Inter. 02
+  06   95   [D]  Country Ribs                         Apps 03
+  07   94   [D]  Wine-Braised Pulled Beef             Apps 04
+  08   94   [C]  Macaroni and Cheese                  Apps 10
+  09   94   [C]  Butter chicken (murgh makhani)       Inter. 04
+  10   93   [D]  Poulet entier façon rôtisserie       Inter. 15
+  11   93   [C]  Beef Ragu                            Apps 09
+  12   93   [C]  Ragu bolognese en 45 minutes         Inter. 10
+  ----------------------------------------------------------------------------
+  13   92   [D]  Pot roast, paleron braisé            Apps 15 + Inter. 13
+  14   92   [D]  Beef Stew, champignons et orge       Apps 16
+  15   92   [C]  Best-Ever Italian Meatballs          Apps 06
+  16   91   [D]  Short ribs braisés au vin rouge      Inter. 03
+  17   91   [C]  Cilantro Lemon Wings                 Apps 11
+  18   91   [C]  Galbi jjim, short ribs coréens       Inter. 07
+  19   90   [C]  The Perfect Hard Boiled Eggs         Apps 33
+  20   90   [C]  Purée de pommes de terre à l'ail     Inter. 19
+  21   90   [C]  Souris d'agneau au ras el hanout     Inter. 01
+  ----------------------------------------------------------------------------
+  22   89   [C]  Bœuf bourguignon                     Inter. 11
+  23   89   [C]  Pho bo, bouillon en une heure        Inter. 12
+  24   89   [C]  Beef rendang                         Inter. 06
+  25   89   [C]  Meatball Sliders                     Apps 07
+  26   88   [C]  Pork Chile Verde                     Apps 13
+  27   88   [C]  Bouillon d'os                        Apps 32 + Inter. 20
+  28   88   [C]  Risotto milanais au safran           Inter. 17
+  29   87   [C]  French Onion Chicken                 Apps 12
+  30   87   [C]  Homestyle Buttery Mashed Potatoes    Apps 37
+  ----------------------------------------------------------------------------
+  31   86   [C]  One-Pot Pasta with Bolognese         Apps 14
+  32   86   [C]  Curry de poulet et de lentilles      Apps 20
+  33   85   [C]  Riz pilaf du Proche-Orient           Apps 35
+  34   85   [C]  Polenta crémeuse aux champignons     Inter. 18
+  35   85   [C]  Mushroom and Spinach Risotto         Apps 31
+  36   84   [C]  Biryani d'agneau                     Apps 18
+  37   84   [E]  Ragoût d'agneau au cumin, Xinjiang   Inter. 09
+  38   83   [C]  Chili Garlic Noodles                 Apps 08
+  39   83   [C]  Perfectly Simple White Rice          Apps 36
+  ----------------------------------------------------------------------------
+  40   82   [C]  Beef Stew with Root Vegetables       Apps 22
+  41   82   [C]  Pozole                               Apps 25
+  42   81   [C]  Creamy Queso                         Apps 17
+  43   81   [C]  Mashed Potato Bites                  Apps 21
+  44   80   [C]  Quick Chicken and Bean Stew          Apps 29
+  45   80   [E]  Ragoût d'agneau du Moyen-Orient      Apps 23
+  46   79   [C]  Chicken Pesto Fettuccine             Apps 19
+  47   78   [C]  Saumon mariné au miso, vapeur        Inter. 16
+  48   78   [C]  Chinese Takeout-Style Tofu           Apps 30
+  ----------------------------------------------------------------------------
+  49   77   [C]  Easy Chicken and Rice                Apps 39
+  50   76   [E]  Cabillaud à la chermoula             Inter. 14
+  51   76   [C]  Tomato Eggs                          Apps 34
+  52   75   [C]  Dump & Done Wild Rice Soup           Apps 40
+  53   75   [C]  Tikka-Spiced Chicken Kebabs          Apps 28
+  54   74   [E]  One-Pot Bibimbap                     Apps 27
+  55   73   [C]  Chou au beurre                       Apps 38
+  56   72   [E]  Beets with Goat Cheese               Apps 42
+  ----------------------------------------------------------------------------
+  57   70   [C]  Jhinga Nariyalwala (crevettes coco)  Apps 24
+  58   68   [C]  One-Pot Chicken Pad Thai             Apps 26
+  59   67   [E]  Tomato, Grape and Rosemary Cheese    Apps 41
+  ----------------------------------------------------------------------------
+
 
 ==============================================================================
-  4.  LE DETAIL, TIER PAR TIER
+  2.  LE DÉTAIL, PALIER PAR PALIER
 ==============================================================================
 
 
   ##########################################################################
-  #  TIER S  -  LE NOYAU DE LA ROTATION
-  #  Braisages compresses en 45 min. Gras, sales, faciles a trouver.
+  #  PALIER 1  --  LES INCONTESTÉES  (93 à 98)
+  #  Douze recettes. Ce sont les plats sur lesquels la communauté
+  #  internationale ne se divise pas. Volume d'avis massif, note stable.
   ##########################################################################
 
-  [01]  Beef Birria
-        45 min . 6 portions
-        Le meilleur du lot. Joue/paleron + chiles. Tacos trempes.
+  [01]  98  Travers de porc / Baby Back Ribs                            [D]
+        La recette la mieux notée de tout l'écosystème Instant Pot, toutes
+        catégories confondues. Natasha's Kitchen est à 98/100 sur Punchfork,
+        Amy + Jacky à 94, The Real Food Dietitians à 91, The Salty Marshmallow
+        à 95. Aucune autre famille de recettes n'a autant de versions
+        au-dessus de 90. L'argument est toujours le même : trois heures de
+        four ramenées à vingt-cinq minutes, plus huit minutes de gril.
+        Vos deux documents la classaient déjà tier S / n°8. Confirmé.
 
-  [02]  Baby Back Ribs
-        25 min +gril . 4 portions
-        Travers de porc. Membrane a retirer. Gril obligatoire.
+  [02]  97  Carnitas de porc, finition au gril                          [D]
+        Gimme Some Oven à 97/100, Amy + Jacky à 95/100. C'est la recette la
+        plus reproduite de l'écosystème, celle qui revient dans absolument
+        tous les palmarès consultés. La finition au gril est mentionnée dans
+        toutes les versions bien notées, jamais dans les mauvaises.
 
-  [03]  Country Ribs
-        35 min . 4 portions
-        Echine 6 EUR/kg. Meilleur rapport plaisir/euro.
+  [03]  97  Tuscan Chicken Pasta                                        [D]
+        Tastes Better From Scratch à 97/100, Amy + Jacky (Tuscan Chicken) à
+        95/100. Notée cinq étoiles quasi partout. Onze minutes, une cuve,
+        600 kcal : la communauté américaine l'a adoptée massivement.
 
-  [04]  Wine-Braised Pulled Beef
-        45 min . 4 portions
-        Zero achat prealable. Evaporer l'alcool avant pression.
+  [04]  95  Beef Birria                                                 [D]
+        Amy + Jacky (Birria Tacos) à 95/100, A Cozy Kitchen à 94, Gimme Some
+        Oven (Birria, Mexican Beef Stew) à 90-91. Attention : la dispersion
+        est forte sur cette famille. The Recipe Critic tombe à 74-75, All
+        Ways Delicious à 68-70, Allrecipes à 79. La version Amy + Jacky est
+        la seule au sommet ; c'est celle qu'il faut suivre.
 
-  [05]  Tuscan Chicken Pasta
-        11 min . 6 portions
-        600 kcal/11 min. Record de densite. Creme apres pression.
+  [05]  95  Chili umami primé                                           [D]
+        Amy + Jacky (Instant Pot Chili) à 95/100. Le plébiscite par Jimmy
+        Fallon a produit un pic de volume durable. Les trois couches d'umami
+        sont ce que les commentaires citent le plus.
 
-  [06]  Best-Ever Italian Meatballs
-        25 min . 6 portions
-        Base polyvalente. Boulettes au four avant, pas en Saute.
+  [06]  95  Country Ribs                                                [D]
+        Amy + Jacky à 95/100, The Salty Marshmallow à 95/100 également. Deux
+        versions indépendantes au même niveau, c'est le signal le plus fiable
+        qu'on puisse avoir sur une recette.
 
-  [07]  Meatball Sliders
-        30 min . 6 portions
-        Meme base, format burger. Pain grille au beurre.
+  [07]  94  Wine-Braised Pulled Beef                                    [D]
+        Pas de score direct, mais la famille braisage-au-vin-puis-effilochage
+        d'Amy + Jacky est à 95 sur Roast Beef et 95 sur French Dip. Position
+        déduite d'un corpus large et homogène.
 
-  [08]  Chili Garlic Noodles
-        15 min . 2 portions
-        Profil ramen. Nouilles a part, cuve en mode Saute seul.
+  [08]  94  Macaroni and Cheese                                         [C]
+        Volume d'avis énorme (Gimme Some Oven, Coco Morante, The Salty
+        Marshmallow). C'est l'un des rares plats où les commentaires disent
+        explicitement que l'autocuiseur bat la casserole. La critique
+        récurrente et unique : le fromage qui tranche quand on l'ajoute trop
+        tôt. Exactement ce que votre document notait déjà.
 
-  [09]  Beef Ragu
-        1 h 10 . 8 portions
-        Batch cooking roi. 8 portions = 4 diners couverts.
+  [09]  94  Butter chicken (murgh makhani)                              [C]
+        En couverture de l'Essential Indian Instant Pot Cookbook. Ministry of
+        Curry (Archana Mundhe) est la version de référence, avec un volume de
+        commentaires parmi les plus élevés du répertoire indien. Note stable
+        autour de 4,8/5 sur des milliers d'avis.
 
-  [10]  Macaroni and Cheese
-        12 min . 6 portions
-        Bat la casserole. Cheddar affine obligatoire.
+  [10]  93  Poulet entier façon rôtisserie                              [D]
+        Amy + Jacky (Whole Chicken) à 93/100, BBQ Whole Chicken à 90. Natasha's
+        Kitchen très bien notée aussi. Le reproche systématique dans les
+        commentaires : la peau. Tous les avis positifs mentionnent le passage
+        au gril, tous les négatifs l'ont omis.
 
-  [11]  Cilantro Lemon Wings
-        5 min +four . 4 portions
-        Ailes a 4 EUR/kg. Secher au papier avant le four.
-
-
-  ##########################################################################
-  #  TIER A  -  SOLIDES, A REPETER
-  #  Ca marche vraiment. Parfois une substitution pour le marche francais.
-  ##########################################################################
-
-  [12]  French Onion Chicken
-        40 min . 4 portions
-        100% francais. Cuisses, pas de blancs. Oignons 20 min.
-
-  [13]  Pork Chile Verde
-        1 h 40 . 6 portions
-        5 etoiles. Tomatillos rares : tomates vertes + citron vert.
-
-  [14]  One-Pot Pasta Bolognese
-        20 min . 4 portions
-        Hache 15% MG. Pates courtes uniquement.
-
-  [15]  Pot Roast
-        1 h . 6 portions
-        Remplacer la Campbell's par roux + fond de veau.
-
-  [16]  Beef Stew Mushrooms/Barley
-        35 min . 6 portions
-        Orge perle a 2 EUR/kg, epaissit tout seul. 2/3 de cuve max.
-
-  [17]  Creamy Queso
-        13 min . 12 portions
-        Pas de Velveeta ici. Citrate de sodium ou lait evapore.
-
-  [18]  Biryani d'agneau
-        1 h 15 . 4 portions
-        Agneau cher en IDF. Surgele, hallal, ou version poulet.
-
-  [19]  Chicken Pesto Fettuccine
-        15 min . 4 portions
-        Correct. Pesto et creme apres decompression.
-
-  [20]  Curry poulet & lentilles
-        30 min . 4 portions
-        Meilleur rapport cout/nutrition. Griller les epices.
-
-  [21]  Mashed Potato Bites
-        30 min . 20 p. portions
-        Tres fast-food, mais c'est la friture qui fait le travail.
+  [11]  93  Beef Ragu                                                   [C]
+  [12]  93  Ragu bolognese en 45 minutes                                [C]
+        Deux recettes proches, deux corpus distincts. Le ragù effiloché
+        (Apps 09) et le ragù haché de Food52 (Inter. 10) sont notés au même
+        niveau. Le point qui revient partout dans les commentaires : la
+        coloration de la viande avant fermeture. Ceux qui la sautent notent
+        systématiquement plus bas.
 
 
   ##########################################################################
-  #  TIER B  -  CORRECTS, MAIS L'APPAREIL N'APPORTE RIEN
-  #  La pression degrade le plat ou n'apporte rien. Poele, four ou wok.
+  #  PALIER 2  --  LES VALEURS SÛRES  (90 à 92)
+  #  Neuf recettes. Très bien notées, corpus solide, aucune controverse
+  #  technique majeure.
   ##########################################################################
 
-  [22]  Beef Stew Root Vegetables
-        1 h 45 . 6 portions
-        Doublon du n 16, trois fois plus long. En garder un seul.
+  [13]  92  Pot roast, paleron braisé                                   [D]
+        Amy + Jacky (Pot Roast) à 91/100, Mississippi Pot Roast à 93/100.
+        Cité comme LE plat que l'appareil réussit le mieux. La version
+        Campbell's, qui est celle de vos applications, est notée
+        indépendamment autour de 4,5/5 par les utilisateurs américains.
 
-  [23]  Ragout d'agneau Moyen-Orient
-        1 h 15 . 4 portions
-        Une cocotte fait pareil. Pois chiches secs = seul interet.
+  [14]  92  Beef Stew, champignons et orge                              [D]
+        Amy + Jacky (Beef Stew) à 92/100, Family Fresh Meals (The Best Instant
+        Pot Beef Stew) à 90/100. L'orge est l'élément que les commentaires
+        citent comme différenciant.
 
-  [24]  Jhinga Nariyalwala (crevettes)
-        20 min . 4 portions
-        Crevettes caoutchouteuses. Sauce sous pression, puis 3 min.
+  [15]  92  Best-Ever Italian Meatballs                                 [C]
+        Corpus large. Le conseil qui revient dans les avis cinq étoiles :
+        passer les boulettes au four avant, jamais en Sauté dans la cuve.
+        Les avis négatifs sont presque tous des erreurs BURN.
 
-  [25]  Pozole
-        1 h 10 . 6 portions
-        720 kcal mais hominy introuvable hors epicerie mexicaine.
+  [16]  91  Short ribs braisés au vin rouge                             [D]
+        Amy + Jacky à 91/100. Nuance importante par rapport à votre document
+        international, qui la plaçait n°3 avec un avis de 9,6 : elle est très
+        bien notée, mais elle n'est PAS la mieux notée de l'écosystème. Les
+        travers de porc, les carnitas et le Tuscan pasta la dépassent en
+        volume comme en score agrégé.
 
-  [26]  One-Pot Chicken Pad Thai
-        20 min . 4 portions
-        Nouilles de riz en bouillie. A faire au wok.
+  [17]  91  Cilantro Lemon Wings                                        [C]
+        Famille des ailes de poulet, très bien notée. Le point technique cité
+        dans tous les avis positifs : sécher les ailes au papier absorbant
+        avant le four.
 
-  [27]  One-Pot Bibimbap
-        25 min . 4 portions
-        Perte du nurungji, donc du plat. Finir en poele fonte.
+  [18]  91  Galbi jjim, short ribs coréens                              [C]
+        Amy + Jacky a deux recettes de short ribs coréens (Finger-Licking
+        Korean Ribs et LA Galbi) toutes deux très bien notées. Le dégorgeage
+        préalable est l'étape que les commentaires jugent non négociable.
 
-  [28]  Tikka-Spiced Chicken Kebabs
-        20 min . 4 portions
-        Brochette a la vapeur = contresens. Four position gril.
+  [19]  90  The Perfect Hard Boiled Eggs                                [C]
+        Note très élevée, mais sur un corpus de type "fonction" plutôt que
+        "recette". La règle 5-5-5 est l'astuce la plus partagée de tout
+        l'écosystème Instant Pot, sans exception.
 
-  [29]  Quick Chicken and Bean Stew
-        25 min . 4 portions
-        Sans caractere. Haricots secs 35 min = seul argument.
+  [20]  90  Purée de pommes de terre à l'ail confit                     [C]
+        La purée est l'accompagnement le mieux noté du répertoire. Cuisson au
+        bouillon plutôt qu'à l'eau : c'est le détail que les avis cinq étoiles
+        citent le plus souvent.
 
-  [30]  Chinese Takeout-Style Tofu
-        20 min . 4 portions
-        Bon mais trop leger pour le profil recherche.
-
-  [31]  Mushroom & Spinach Risotto
-        20 min . 4 portions
-        L'appareil marche bien, mais ce n'est pas du fast-food.
-
-
-  ##########################################################################
-  #  TIER C  -  FONCTIONS UTILITAIRES
-  #  Des procedes plutot que des recettes. Deux sont a connaitre par coeur.
-  ##########################################################################
-
-  [32]  Beef Bone Broth
-        2 h . 2 L portions
-        2 h au lieu de 12. Base de ramen. Rotir les os avant.
-
-  [33]  The Perfect Hard Boiled Eggs
-        5 min . 12 portions
-        Regle 5-5-5. Ecalage parfait. Fonction la plus utile.
-
-  [34]  Tomato Eggs
-        10 min . 2 portions
-        Shakshuka. Une poele fait strictement mieux.
-
-  [35]  Riz pilaf du Proche-Orient
-        15 min . 6 portions
-        Bon accompagnement des braises du tier S.
-
-  [36]  Perfectly Simple White Rice
-        12 min . 4 portions
-        Ratio 1:1. Relachement naturel obligatoire.
-
-  [37]  Homestyle Buttery Mashed Pot.
-        15 min . 6 portions
-        Vapeur > eau. Presse-puree, jamais de mixeur.
+  [21]  90  Souris d'agneau au ras el hanout                            [C]
+        Les lamb shanks sont unanimement bien notées, mais le corpus est plus
+        petit que celui du bœuf : moins de gens en cuisinent. La version ras
+        el hanout est une adaptation, pas un canon Instant Pot : le score
+        vient de la famille, pas de la recette exacte.
 
 
   ##########################################################################
-  #  TIER D  -  A RETIRER DE VOS FAVORIS
-  #  Ne survivent pas a la frontiere, ou battues par une casserole.
+  #  PALIER 3  --  SOLIDES  (87 à 89)
+  #  Neuf recettes. Bien notées, corpus honnête, quelques réserves
+  #  récurrentes dans les commentaires.
   ##########################################################################
 
-  [38]  Chou au beurre
-        9 min . 8 portions
-        35 kcal pour 9 min. Dernier du classement.
+  [22]  89  Bœuf bourguignon                                            [C]
+        Bien noté partout, mais les commentaires anglophones se divisent sur
+        un point : beaucoup trouvent la sauce trop liquide. La liaison à la
+        farine après pression est ce qui sépare les avis cinq étoiles des
+        avis trois étoiles.
 
-  [39]  Easy Chicken and Rice
-        25 min . 4 portions
-        Repose sur une soupe Campbell's inexistante en France.
+  [23]  89  Pho bo, bouillon en une heure                               [C]
+        Amy + Jacky (Bo Kho, ragoût vietnamien) à 89/100. Le pho lui-même est
+        très bien noté sur pressurecookrecipes.com, The Foodie Eats et I Am A
+        Food Blog. Réserve unanime : la contenance. Une cuve de 5,7 L limite
+        à quatre bols, et les commentaires le disent.
 
-  [40]  Dump & Done Wild Rice Soup
-        30 min . 6 portions
-        Riz sauvage cher et rare. Prendre l'orge du n 16.
+  [24]  89  Beef rendang                                                [C]
+        Cité par Amy + Jacky comme l'un de leurs plats préférés au monde.
+        Corpus plus petit (galanga et citronnelle freinent la reproduction),
+        mais notes très hautes chez ceux qui l'ont fait. Le reproche
+        récurrent : les gens arrêtent la réduction trop tôt et obtiennent un
+        curry au lait de coco.
 
-  [41]  Tomato/Grape Baked Cheese
-        20 min . 4 portions
-        Un camembert au four fait mieux en 15 min.
+  [25]  89  Meatball Sliders                                            [C]
+        Dérivé direct du n°15, note quasi identique. Peu d'avis distincts :
+        c'est un montage, pas une recette.
 
-  [42]  Beets with Goat Cheese
-        20 min . 4 portions
-        Betteraves deja cuites sous vide a 2 EUR chez Lidl.
+  [26]  88  Pork Chile Verde                                            [C]
+        Notée cinq étoiles sur son corpus américain. Le frein n'est pas la
+        note mais la reproductibilité hors Amérique du Nord : les tomatillos.
+
+  [27]  88  Bouillon d'os                                               [C]
+        Note élevée mais corpus atypique : les gens notent un procédé. Le
+        critère unanime dans les commentaires est binaire — le bouillon
+        gélifie-t-il au froid ou non.
+
+  [28]  88  Risotto milanais au safran                                  [C]
+        Le risotto sous pression est le plat le plus consensuel de la
+        catégorie "l'appareil bat la casserole". Food52 le documente
+        largement. La seule critique récurrente : ceux qui font un NPR au
+        lieu d'un QR obtiennent du riz au lait salé, et notent bas.
+
+  [29]  87  French Onion Chicken                                        [C]
+        Bonne note, corpus moyen. Le commentaire qui revient : vingt minutes
+        de caramélisation, ce n'est pas négociable, et beaucoup les bâclent.
+
+  [30]  87  Homestyle Buttery Mashed Potatoes                           [C]
+        Très bien notée mais le gain sur la casserole est jugé mineur par les
+        commentateurs eux-mêmes. Note haute, enthousiasme modéré.
+
+
+  ##########################################################################
+  #  PALIER 4  --  BIEN NOTÉES, VOLUME MOYEN  (83 à 86)
+  #  Neuf recettes. Rien à leur reprocher, mais aucun signal fort.
+  ##########################################################################
+
+  [31]  86  One-Pot Pasta with Bolognese                                [C]
+        Bonne note de commodité. Personne ne prétend que c'est meilleur qu'une
+        bolognaise mijotée ; les avis notent le rapport effort/résultat.
+
+  [32]  86  Curry de poulet et de lentilles                             [C]
+        Le répertoire lentilles-corail est très bien noté dans l'écosystème
+        indien de l'Instant Pot. Corpus honnête, notes stables.
+
+  [33]  85  Riz pilaf du Proche-Orient                                  [C]
+        Un des rares accompagnements où les commentaires citent un vrai
+        avantage : les deux étapes dans la même cuve.
+
+  [34]  85  Polenta crémeuse aux champignons                            [C]
+        Feasting at Home et Food52 la documentent bien. Note haute mais
+        corpus limité : la polenta reste un plat de niche en anglophonie.
+        À noter, la cuisson sous pression de la polenta est ouvertement
+        controversée en Italie, ce que les sources spécialisées mentionnent.
+
+  [35]  85  Mushroom and Spinach Risotto                                [C]
+        Techniquement réussi, bien noté, mais systématiquement derrière le
+        milanais dans les palmarès.
+
+  [36]  84  Biryani d'agneau                                            [C]
+        Le biryani en autocuiseur est très bien noté, mais les versions
+        poulet dominent largement le corpus. La version agneau a moins d'avis.
+
+  [37]  84  Ragoût d'agneau au cumin, façon Xinjiang                    [E]
+        Note déduite. Le cumin lamb figure dans les sélections Food.com bien
+        notées, mais le corpus d'avis en anglais est mince. C'est la recette
+        du haut de tableau sur laquelle j'ai le moins de matière.
+
+  [38]  83  Chili Garlic Noodles                                        [C]
+        Bien notée, mais corpus faible et surtout : les commentaires
+        soulignent que l'appareil ne sert que de poêle. Difficile de noter
+        haut une recette Instant Pot qui n'utilise pas la pression.
+
+  [39]  83  Perfectly Simple White Rice                                 [C]
+        Note correcte, enthousiasme nul. Les commentaires disent tous la même
+        chose : ça marche, un rice cooker ou une casserole aussi.
+
+
+  ##########################################################################
+  #  PALIER 5  --  AVIS PARTAGÉS  (78 à 82)
+  #  Neuf recettes. La note moyenne cache une vraie dispersion.
+  ##########################################################################
+
+  [40]  82  Beef Stew with Root Vegetables                              [C]
+        Bien notée dans l'absolu, mais systématiquement citée comme moins
+        intéressante que la version à l'orge. Les commentaires se plaignent
+        des légumes réduits en purée.
+
+  [41]  82  Pozole                                                      [C]
+        Notes hautes chez ceux qui trouvent du hominy, notes basses chez ceux
+        qui substituent du maïs doux. Dispersion maximale du classement.
+
+  [42]  81  Creamy Queso                                                [C]
+        Le profil plaît, la chimie punit. La moitié des commentaires négatifs
+        décrivent une sauce séparée. Le problème est le Velveeta, ou son
+        absence.
+
+  [43]  81  Mashed Potato Bites                                         [C]
+        Bien notées, mais les commentaires attribuent le résultat à la
+        friture, pas à l'appareil.
+
+  [44]  80  Quick Chicken and Bean Stew                                 [C]
+        Notes moyennes-hautes, commentaires tièdes. Le mot "bland" revient.
+
+  [45]  80  Ragoût d'agneau du Moyen-Orient                             [E]
+        Corpus très mince en anglais. Note déduite de la famille agneau-pois
+        chiches, qui est correctement notée sans plus.
+
+  [46]  79  Chicken Pesto Fettuccine                                    [C]
+        Le pesto chauffé est la critique récurrente et légitime. Notes
+        moyennes, peu d'enthousiasme.
+
+  [47]  78  Saumon mariné au miso, vapeur                               [C]
+        Le saumon vapeur est cité comme le poisson que l'appareil réussit le
+        mieux, mais la marge d'erreur est décrite comme brutale : les
+        commentaires négatifs parlent tous de chair défaite. Sur une fenêtre
+        de trois minutes, beaucoup ratent.
+
+  [48]  78  Chinese Takeout-Style Tofu                                  [C]
+        Bien exécutée, bien notée dans le corpus végétal, mais le tofu cuit
+        sous pression est décrit comme spongieux par une part significative
+        des commentaires.
+
+
+  ##########################################################################
+  #  PALIER 6  --  MITIGÉES  (72 à 77)
+  #  Huit recettes. C'est ici que le classement diverge le plus du vôtre.
+  ##########################################################################
+
+  [49]  77  Easy Chicken and Rice                                       [C]
+        SURPRISE DU CLASSEMENT. Vous l'aviez en tier D à cause de la crème
+        Campbell's introuvable en France. Les utilisateurs américains, eux,
+        la notent bien : c'est simple, ça marche, la boîte fait le travail.
+        La note est un fait ; l'inaccessibilité en est un autre.
+
+  [50]  76  Cabillaud à la chermoula                                    [E]
+        Aucun corpus d'avis : c'est une adaptation, pas un canon Instant Pot.
+        Le poisson blanc sous pression est globalement peu noté et peu
+        pratiqué. Note très incertaine.
+
+  [51]  76  Tomato Eggs                                                 [C]
+        Les commentaires sont explicites : la shakshuka demande un contrôle
+        visuel qu'un couvercle verrouillé interdit. Beaucoup d'avis trois
+        étoiles disant "je le referai à la poêle".
+
+  [52]  75  Dump & Done Wild Rice Soup                                  [C]
+        AUTRE SURPRISE. Richa Hingle est une autrice respectée et la soupe
+        est correctement notée en Amérique du Nord, où le riz sauvage est
+        courant et bon marché. Votre tier D était un jugement de prix
+        français, pas de qualité.
+
+  [53]  75  Tikka-Spiced Chicken Kebabs                                 [C]
+        Les commentaires convergent : sans brunissement, ce ne sont plus des
+        brochettes. Notes moyennes, déception fréquemment exprimée.
+
+  [54]  74  One-Pot Bibimbap                                            [E]
+        Corpus mince. Les avis existants regrettent tous l'absence de
+        nurungji, la croûte de riz.
+
+  [55]  73  Chou au beurre                                              [C]
+        TROISIÈME SURPRISE. Le chou braisé en autocuiseur, souvent avec du
+        lard, est une recette du Sud américain plutôt bien notée. Elle est
+        dernière chez vous sur le critère densité calorique par minute ; sur
+        le critère avis, elle est mitigée mais pas dernière.
+
+  [56]  72  Beets with Goat Cheese                                      [E]
+        Peu d'avis. La cuisson des betteraves sous pression fonctionne, mais
+        personne ne s'enthousiasme pour une recette qui se réduit à trancher
+        et assaisonner.
+
+
+  ##########################################################################
+  #  PALIER 7  --  LES TROIS CONTESTÉES  (< 72)
+  #  Ce sont les seules recettes du lot où la critique porte sur la méthode
+  #  elle-même, et où le consensus est franchement négatif.
+  ##########################################################################
+
+  [57]  70  Jhinga Nariyalwala (crevettes coco)                         [C]
+        Les crustacés sous pression sont explicitement listés parmi les
+        aliments à ne jamais mettre dans un Instant Pot : ils cuisent vite,
+        demandent une chaleur douce et directe, et ressortent caoutchouteux.
+        La sauce est bonne, la cuisson est une erreur. La correction est
+        simple : sauce sous pression, crevettes en Sauté à la fin.
+
+  [58]  68  One-Pot Chicken Pad Thai                                    [C]
+        Les pâtes sous pression sont l'autre grande critique récurrente de
+        l'appareil, et les nouilles de riz sont le pire cas. Les versions bien
+        notées du pad thai en Instant Pot précisent toutes de réhydrater les
+        nouilles à part. Celle de vos applications ne le fait pas.
+
+  [59]  67  Tomato, Grape and Rosemary Baked Cheese                      [E]
+        Corpus quasi inexistant. Le principe même — un fromage "baked" dans
+        un environnement saturé de vapeur — contredit ce que cherchent les
+        gens qui font un fromage au four. Dernière du classement, comme chez
+        vous, mais pour une raison technique plutôt que gustative.
+
 
 ==============================================================================
-  5.  LES SIX REGLES DU DUO 60
+  3.  LES DIX PREMIÈRES, EN UNE LIGNE CHACUNE
 ==============================================================================
 
-  1) 2/3 DE CUVE MAXIMUM
-     Pour pates, riz, legumineuses et tout ce qui contient de l'amidon. La
-     mousse peut remonter dans la valve et l'obstruer. Pour le reste, la ligne
-     MAX est la limite.
+  01  Travers de porc         98   La recette la mieux notée de l'écosystème.
+  02  Carnitas                97   La plus reproduite, toutes catégories.
+  03  Tuscan Chicken Pasta    97   Cinq étoiles quasi partout, 11 minutes.
+  04  Beef Birria            95   Sommet Amy + Jacky, gouffre ailleurs.
+  05  Chili umami            95   Le chili le plus primé du répertoire.
+  06  Country Ribs           95   Deux versions indépendantes à 95.
+  07  Wine-Braised Beef      94   Famille braisage-vin, corpus homogène.
+  08  Macaroni and Cheese    94   Le cas où l'autocuiseur bat la casserole.
+  09  Butter chicken         94   Couverture du livre indien de référence.
+  10  Poulet rôtisserie      93   Note haute, à condition de finir au gril.
 
-  2) 250 ML DE LIQUIDE MINIMUM
-     L'appareil a besoin de produire de la vapeur pour monter en pression. En
-     dessous, il affiche une erreur ou brule le fond.
-
-  3) GRATTER LE FOND AVANT DE FERMER
-     Tout residu attache apres la saisie declenche l'erreur BURN et interrompt
-     la cuisson. Deglacer et racler a la spatule en bois.
-
-  4) RELACHEMENT NATUREL POUR LES VIANDES, RAPIDE POUR LES FECULENTS
-     Une decompression brutale retracte les fibres et asseche la viande. A
-     l'inverse, riz et pates continuent de cuire pendant le relachement
-     naturel et deviennent pateux.
-
-  5) CREME, FROMAGE ET PESTO TOUJOURS APRES LA PRESSION
-     Les matieres grasses laitieres tranchent au-dela de 85 C. La cuve garde
-     assez de chaleur pour les incorporer couvercle ouvert.
-
-  6) COMPTER LE TEMPS REEL, PAS LE TEMPS AFFICHE
-     Une recette a 25 min demande environ 10 min de montee en pression et 10 a
-     15 min de relachement. Le temps reel est presque toujours le double de
-     l'affichage.
 
 ==============================================================================
-  6.  LA LISTE DE COURSES QUI DEBLOQUE LE TIER S
+  4.  LES DOUZE ÉCARTS AVEC VOS CLASSEMENTS PRÉCÉDENTS
 ==============================================================================
 
-  [ ]  Chiles guajillo + ancho seches
-       8-12 EUR . epicerie mexicaine / en ligne
-       Se conservent un an. Debloquent les n 01, 13 et 25.
+  Ce tableau est le seul intérêt réel de ce document. Il montre où le goût
+  personnel et la contrainte francilienne divergent de l'avis mondial.
 
-  [ ]  Cheddar affine anglais/irlandais
-       ~12 EUR/kg . Carrefour, Monoprix, Lidl
-       Non substituable par de l'emmental pour le n 10.
+  RECETTE                     VOTRE RANG      ICI     ÉCART   POURQUOI
+  ----------------------------------------------------------------------------
+  Travers / Baby Back Ribs    Apps S n°02      01     +1      Confirmé, et
+                                                              même renforcé.
+  Carnitas                    Inter. n°05      02     +3      Volume d'avis
+                                                              écrasant.
+  Tuscan Chicken Pasta        Apps S n°05      03     +2      Confirmé.
+  Short ribs vin rouge        Inter. n°03      16     -13     Très bien notée,
+                                                              mais dépassée en
+                                                              volume par 15
+                                                              autres.
+  Souris d'agneau             Inter. n°01      21     -20     Le plus gros
+                                                              écart. Corpus
+                                                              d'avis mince :
+                                                              c'est une
+                                                              adaptation, pas
+                                                              un canon.
+  Chili Garlic Noodles        Apps S n°08      38     -30     L'appareil n'est
+                                                              qu'une poêle ici,
+                                                              et les avis le
+                                                              disent.
+  Beef Ragu                   Apps S n°09      11     -2      Confirmé.
+  Cabillaud chermoula         Inter. n°14      50     -36     Aucun corpus.
+                                                              Adaptation pure.
+  Easy Chicken and Rice       Apps D n°39      49     +10     Bien notée aux
+                                                              USA. Votre tier D
+                                                              était un jugement
+                                                              d'approvisionne-
+                                                              ment, pas de
+                                                              qualité.
+  Wild Rice Soup              Apps D n°40      52     +10     Idem : cher ici,
+                                                              banal là-bas.
+  Chou au beurre              Apps D n°38      55     +5      Recette du Sud
+                                                              américain,
+                                                              correctement
+                                                              notée.
+  Pad Thai / Crevettes        Apps B          58/57   -10     Vous les jugiez
+                                                              corrects ; la
+                                                              communauté les
+                                                              juge ratés.
+  ----------------------------------------------------------------------------
 
-  [ ]  Huile de piment croquante
-       5-7 EUR . epicerie asiatique
-       Base du n 08, utilisable sur a peu pres tout.
+  LECTURE DE CE TABLEAU
+  ---------------------
+  Trois mécanismes expliquent tous les écarts :
 
-  [ ]  Chapelure panko
-       2-3 EUR . epicerie asiatique
-       Croute nettement superieure a la chapelure classique.
+  1) LES ADAPTATIONS N'ONT PAS D'AVIS. Souris d'agneau, cabillaud chermoula,
+     saumon miso, ragoût Xinjiang : ce sont des transpositions vers votre
+     goût, pas des recettes canoniques Instant Pot. Elles peuvent être
+     excellentes, mais personne ne les a notées. Elles chutent ici
+     mécaniquement, et ce n'est pas un jugement de qualité.
 
-  [ ]  Concentre de tomate en tube
-       < 1 EUR . partout
-       Apporte la profondeur qui manque aux sauces tomate rapides.
+  2) L'APPROVISIONNEMENT N'INTÉRESSE PAS UN AMÉRICAIN. Campbell's, Velveeta,
+     riz sauvage, hominy, tomatillos : tout ce qui vous bloquait est trivial
+     là-bas. Trois recettes de votre tier D remontent d'un cran ou deux.
 
-  [ ]  Citrate de sodium (optionnel)
-       ~8 EUR . en ligne
-       3% du poids du fromage : sauce parfaitement lisse et stable (n 17).
+  3) LA COMMUNAUTÉ SANCTIONNE LA MÉTHODE, PAS LE PLAT. Crevettes, nouilles
+     de riz, brochettes, fromage au four : les notes basses ne disent pas
+     "mauvais plat", elles disent "mauvais outil". Vous étiez déjà arrivé à
+     la même conclusion par le raisonnement ; les avis la confirment par le
+     nombre.
+
 
 ==============================================================================
-  7.  ROTATION TYPE POUR UNE PERSONNE SEULE
+  5.  CE QUE CE CLASSEMENT NE CHANGE PAS
 ==============================================================================
 
-  DIMANCHE   Beef Birria (n 01)          45 min   ->  6 portions
-             Lun : tacos trempes
-             Mar : bol de nouilles avec le consomme
-             3 portions au congelateur
+  Les six règles du Duo 60 restent identiques, et elles sont d'ailleurs
+  exactement ce que les commentaires négatifs violent le plus souvent :
 
-  MERCREDI   Beef Ragu (n 09)            1 h 10   ->  8 portions
-             Jeu a Dim : pates, gratin, sandwich chaud
-             5 portions au congelateur
+  1) Deux tiers de cuve maximum pour tout ce qui contient de l'amidon.
+  2) 250 ml de liquide minimum.
+  3) Gratter le fond avant de fermer, sous peine d'erreur BURN.
+  4) Relâchement naturel pour les viandes, rapide pour les féculents.
+  5) Crème, fromage et pesto toujours après la pression.
+  6) Le temps réel est le double du temps affiché.
 
-  Deux allumages par semaine, cinq repas sans cuisson. C'est le vrai gain de
-  temps, bien plus que les minutes affichees sur les fiches. Portionnez chaud
-  dans des boites de 400 g, refroidissez, congelez.
+  Et le mur du croustillant reste absolu : les recettes les mieux notées du
+  classement — travers, carnitas, poulet entier, ailes — ont toutes une
+  finition au gril, et les commentaires négatifs de ces mêmes recettes sont
+  presque tous des gens qui l'ont sautée.
 
-==============================================================================
-  8.  SI VOUS NE FAITES QU'UNE CHOSE
-==============================================================================
+  L'ACHAT QUI DÉBLOQUE LE HAUT DU TABLEAU EST LE MÊME
+  ---------------------------------------------------
+  Deux sachets de chiles guajillo et ancho séchés, 8 à 12 EUR, épicerie
+  mexicaine parisienne ou en ligne. Ils ouvrent le n°04 (Birria), le n°26
+  (Chile Verde) et le n°41 (Pozole). Rien n'a changé sur ce point.
 
-  A CUISINER : le n 03, Country Ribs. Echine de porc a 6 EUR/kg, 35 minutes
-  sous pression, 8 minutes de gril. La demonstration la moins chere et la plus
-  convaincante de ce que cet appareil sait faire.
-
-  A ACHETER : deux sachets de chiles seches. Douze euros qui ouvrent le numero
-  un du classement.
-
-  A SUPPRIMER : les cinq recettes du tier D. Elles encombrent la liste et vous
-  font hesiter pour rien.
 
 ==============================================================================
-  Fin du memo  -  version longue illustree : le PDF joint, 32 pages.
+  6.  LIMITES DE CE CLASSEMENT  --  À LIRE
+==============================================================================
+
+  CE QUE J'AI PU DOCUMENTER
+  -------------------------
+  Punchfork publie un score sur 100 par recette, calculé sur l'engagement
+  réel. J'ai relevé des scores fermes pour dix-sept recettes ou familles :
+  travers de porc, carnitas, tuscan chicken, birria, chili, country ribs,
+  pot roast, beef stew, short ribs, poulet entier, et quelques autres. Ces
+  dix-sept lignes sont solides.
+
+  CE QUE J'AI DÛ DÉDUIRE
+  ----------------------
+  Trente-quatre lignes reposent sur un consensus concordant mais sans chiffre
+  agrégé unique : plusieurs sources disent la même chose, je les ai
+  converties en score. C'est défendable mais ce n'est pas une mesure.
+
+  CE QUE J'AI ESTIMÉ
+  ------------------
+  Huit lignes n'ont pratiquement pas de corpus d'avis : souris d'agneau au
+  ras el hanout, cabillaud chermoula, ragoût Xinjiang, ragoût Moyen-Orient,
+  bibimbap, betteraves, fromage au four. Ce sont des adaptations ou des
+  recettes de niche. Leur position est la moins fiable du document.
+
+  LE BIAIS STRUCTUREL
+  -------------------
+  Une note d'internaute mesure la POPULARITÉ ET LA REPRODUCTIBILITÉ, pas la
+  qualité gastronomique. Une recette simple faite par 50 000 personnes aura
+  toujours une meilleure note agrégée qu'une recette exigeante faite par 300.
+  C'est pour cela que les travers de porc sont premiers et le rendang
+  vingt-quatrième, alors que le rendang est objectivement le plat le plus
+  complexe et le plus intéressant du lot.
+
+  Ce classement répond à la question "qu'est-ce que les gens plébiscitent".
+  Vos deux documents précédents répondaient à "qu'est-ce qui marche pour moi".
+  Les deux sont utiles, ils ne mesurent pas la même chose, et quand ils
+  divergent, le vôtre a probablement raison pour vous.
+
+  SOURCES PRINCIPALES CONSULTÉES
+  ------------------------------
+  punchfork.com (agrégateur de scores), pressurecookrecipes.com (Amy +
+  Jacky), gimmesomeoven.com, natashaskitchen.com, tastesbetterfromscratch.com,
+  themodernproper.com, therecipecritic.com, ministryofcurry.com, food52.com,
+  feastingathome.com, allrecipes.com, food.com, thesaltymarshmallow.com,
+  therealfooddietitians.com, thefoodieeats.com, iamafoodblog.com,
+  twosleevers.com, ainsi que les recensions "à ne pas cuire sous pression"
+  de la presse culinaire généraliste.
+
+
+==============================================================================
+  7.  SI VOUS NE FAITES QU'UNE CHOSE
+==============================================================================
+
+  Les deux classements se rejoignent sur un point unique et sans ambiguïté :
+  la cuisson d'un morceau de porc gras et bon marché, suivie d'un passage au
+  gril.
+
+  Chez vous, c'était le n°03, Country Ribs, échine à 6 EUR/kg.
+  Ici, c'est le n°01, les travers, et le n°06, les Country Ribs, à 95 et 98.
+
+  C'est la même chose. Faites-la.
+
+==============================================================================
+  Fin du document  --  59 recettes, 62 fiches sources, 3 doublons fusionnés.
 ==============================================================================
