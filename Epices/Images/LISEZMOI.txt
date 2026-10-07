@@ -1,0 +1,11 @@
+Images épices air fryer FD10 Pro
+À extraire dans : C:\Users\aur95\Documents\Gastronomy\Epices\Images
+
+Dossiers
+01_Classement_par_aliment : poulet, poisson pané, légumes, crevettes, jarret, rosbif, saucisses
+02_Top5_par_epice : une fiche par épice ou mélange
+03_Programmes_FD10_morceaux : wings, tenders, cuisse, rôti, porc, bœuf, panés, agneau, veau
+04_Avant_ou_apres : moment d'ajout des épices
+05_Cas_speciaux : gibier, crocodile, poissons par espèce
+
+94 images. Les morceaux au même top 5 partagent une fiche (onglet/bavette/entrecôte, panés de poisson blanc, pièces à mijoter).
